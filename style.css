@@ -52,6 +52,7 @@
 }
 .header .right_menu ul li a:hover{
     background: #0a5546;
+    color: #000;
 }
 
 /* BANNER STYLE */
